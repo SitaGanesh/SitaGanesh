@@ -58,9 +58,9 @@ In my free time, I enjoy:
 - Staying fit through workouts
 
 ## How to Reach Me
-[LinkedIn](https://www.linkedin.com/in/s-ganesh-96281b256/)
-[GitHub](https://github.com/SitaGanesh)
-[twitter](https://twitter.com/ganesh_sita07)
-[email](sitaganesh07@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/s-ganesh-96281b256/)
+- [GitHub](https://github.com/SitaGanesh)
+- [twitter](https://twitter.com/ganesh_sita07)
+- [email] (sitaganesh07@gmail.com)
 
 You can connect with me through GitHub or LinkedIn. Feel free to explore my account, make yourself comfortable, and don't hesitate to reach out if you need assistance or collaboration. Let's create something amazing together!
